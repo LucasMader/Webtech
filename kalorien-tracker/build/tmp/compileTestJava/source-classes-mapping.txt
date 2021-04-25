@@ -1,0 +1,2 @@
+htw/berlin/kalorientracker/KalorienTrackerApplicationTests.java
+ htw.berlin.kalorientracker.KalorienTrackerApplicationTests
