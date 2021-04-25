@@ -1,2 +1,2 @@
 # Milestone 1
-Milestones 
+Eine kleine Web-Applikation zum Tracken von Nährstoffen
