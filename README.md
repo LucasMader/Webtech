@@ -1,2 +1,2 @@
-# Milestone 1
+# Nährstofftracker
 Eine kleine Web-Applikation zum Tracken von Nährstoffen
